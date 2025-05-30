@@ -1,4 +1,3 @@
-```markdown
 # LinkedIn Dating Mode Extension
 A lightweight Chrome extension that transforms LinkedIn profiles into a playful dating interface.
 A playful Chrome extension that transforms LinkedIn profiles into a fun “dating mode” overlay.
