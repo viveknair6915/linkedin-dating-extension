@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "LinkedIn Dating Mode",
+  "description": "Convert LinkedIn UI into a fun dating site overlay.",
+  "version": "1.0.0",
+  "permissions": ["activeTab", "storage"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icons/1.jpg",
+      "48": "icons/2.jpg",
+      "128": "icons/43.jpg"
+    }
+  },
+  "content_scripts": [
+    {
+      "matches": ["*://*.linkedin.com/*"],
+      "js": ["content.js"],
+      "css": ["styles.css"]
+    }
+  ]
+}

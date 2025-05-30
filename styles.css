@@ -1,0 +1,28 @@
+.dating-card {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  width: 300px;
+  background: #fff0f6;
+  border: 2px solid #ff3377;
+  border-radius: 12px;
+  padding: 16px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  z-index: 9999;
+  font-family: Arial, sans-serif;
+}
+
+.dating-card h2 {
+  margin: 0 0 8px;
+  color: #ff0055;
+}
+
+.dating-card button {
+  margin-top: 12px;
+  padding: 8px 12px;
+  background: #ff3377;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
