@@ -135,6 +135,8 @@ A playful Chrome extension that transforms LinkedIn profiles into a fun “datin
   ├── README.md
   └── public/
       └── linkedin-dating-extension.zip
+```
+
 </details> <details> <summary>🛠️ Customization & Extension</summary>
 UI Enhancements: animations, custom graphics
 
@@ -154,4 +156,4 @@ Open a Pull Request.
 </details> <details> <summary>📜 License</summary>
 MIT © Vivek
 
-</details> ```
+</details>
